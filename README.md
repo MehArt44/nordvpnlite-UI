@@ -152,7 +152,7 @@ sh /tmp/nordvpnlite.0.1.0-r1_UI_Final.sh wireguard remove
 
 | مشکل | راه‌حل |
 |---|---|
-| **پیام "توکن احراز هویت مورد نیاز است"** | به بخش تنظیمات رفته و توکن NordVPN خود را وارد کنید. توکن را می‌توانید از [Nord Account](https://my.nordaccount.com/) → Manual setup → NordLynx → Access token دریافت کنید. |
+| **پیام "توکن احراز هویت مورد نیاز است"** | به بخش تنظیمات رفته و توکن NordVPN خود را وارد کنید. توکن را می‌توانید از [Nord Account](https://my.nordaccount.com/dashboard/nordvpn/access-tokens/) → Manual setup → NordLynx → Access token دریافت کنید. |
 | **اتصال برقرار می‌شود اما اینترنت کار نمی‌کند** | احتمالاً مشکل MTU وجود دارد. به بخش تنظیمات پیشرفته رفته و MTU را روی 1280 یا 1360 تنظیم کنید. |
 | **Kill Switch فعال نمی‌شود** | اطمینان حاصل کنید که توکن ذخیره شده و تونل VPN متصل است. Kill Switch فقط زمانی فعال می‌شود که Handshake برقرار باشد. |
 | **DNS Leak detected** | مطمئن شوید که حالت DoH روی Standard یا Strict تنظیم شده است. همچنین می‌توانید از دکمه «Privacy Check» برای بررسی دقیق‌تر استفاده کنید. |
