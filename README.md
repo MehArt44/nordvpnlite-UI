@@ -40,15 +40,6 @@ sh /tmp/nordvpnlite.0.1.0-r1_UI_Final.sh install
 
 پس از نصب، منوی **NordVPN Lite** به رابط وب روتر شما اضافه خواهد شد. **حتماً از حساب کاربری LuCI خارج و مجدداً وارد شوید** و سپس صفحه را با `Ctrl+Shift+R` رفرش کنید.
 
-### گزینه‌های نصب (اختیاری)
-
-```bash
-sh /tmp/nordvpnlite.0.1.0-r1_UI_Final.sh install --dns     # فعال‌سازی اجباری DNS Hardening
-sh /tmp/nordvpnlite.0.1.0-r1_UI_Final.sh install --no-dns  # غیرفعال‌سازی DNS Hardening
-sh /tmp/nordvpnlite.0.1.0-r1_UI_Final.sh install --ks-on   # فعال‌سازی خودکار Kill Switch
-sh /tmp/nordvpnlite.0.1.0-r1_UI_Final.sh install --allow-wan # اجازه دسترسی به WAN
-```
-
 ---
 
 ## 📦 پیش‌نیازها
