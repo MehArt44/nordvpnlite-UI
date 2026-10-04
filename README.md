@@ -34,6 +34,7 @@ wget -O /tmp/nordvpnlite.0.1.0-r1_UI_Final.sh \
 https://github.com/MehArt44/nordvpnlite-UI-for-OpenWrt-25/releases/download/0.1.0-r1/nordvpnlite.0.1.0-r1_UI_Final.sh
 
 sh /tmp/nordvpnlite.0.1.0-r1_UI_Final.sh install
+
 ```
 
 > **⚠️ توجه:** اجرای اسکریپت حتماً نیاز به دسترسی `root` دارد.
